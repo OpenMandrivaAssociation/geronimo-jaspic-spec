@@ -6,7 +6,7 @@ Version:       1.1
 Release:       9.0%{?dist}
 Summary:       Java Authentication SPI for Containers
 License:       ASL 2.0 and W3C
-URL:           http://geronimo.apache.org/
+URL:           https://geronimo.apache.org/
 Source0:       http://repo2.maven.org/maven2/org/apache/geronimo/specs/%{pkg_name}/%{version}/%{pkg_name}-%{version}-source-release.tar.gz
 
 BuildArch:     noarch
